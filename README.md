@@ -1,7 +1,7 @@
 <img alt="Coding" width="100%" height="350px" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/1*L_QoAG863l8QvqxpNyBiqw.gif">
 <h1 align="center">Hi 👋, I'm Milton Dey Mishu</h1>
 <h3 align="center">Dedicated young professionalist,works for Full stack Web development</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
+<img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevmilton&label=Profile%20views&color=0e75b6&style=flat" alt="webdevmilton" /> </p>
 
