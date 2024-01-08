@@ -1,4 +1,4 @@
-/*<img alt="Coding" width="100%" height="300px" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/1*L_QoAG863l8QvqxpNyBiqw.gif">*/
+
 <h1 align="center">Hi 👋, I'm Milton Dey Mishu</h1>
 <h3 align="center">Ki jani bhai</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f"
