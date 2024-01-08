@@ -7,15 +7,34 @@
 
 <p align="left"> <a href="https://twitter.com/@milton14383181" target="blank"><img src="https://img.shields.io/twitter/follow/@milton14383181?logo=twitter&style=for-the-badge" alt="@milton14383181" /></a> </p>
 
-- 🔭 I’m currently working on **php**
+### Tech Stacks I've worked with
 
-- 🌱 I’m currently learning **React**
+_I'm working **full-stack**, but heavily focused on **FrontEnd** & **dAPPs**_
 
-- 💬 Ask me about **PHP,Laravel,Javascript**
+```yaml
+Actively working with:
+  Languages:
+  - Laravel
+  Frontend:
+  - React, Next,Framer-Motion
+  Styling/Component-library:
+  - CSS3, Sass,
+  - Bootstrap
+  Backend:
+  - laravel
+  CI/CD:
+  - GitHub-Actions, CircleCI
 
-- 📫 How to reach me **deymilton85@gmail.com** 
+### Things you might wanna know
 
-- ⚡ Fun fact **Introvert**
+- 🔭 <b>Working with:</b> Mentioned above **↑**
+- 🌱 <b>Getting better at:</b> Mentoring + Leading a team, Being a Product/Feature owner
+- 🤔 <b>Exploring:</b> Startup Ideas, Serverless, Functional Programming
+- ⚗️ <b>Experimenting on:</b> Ai
+- 💬 <b>Let's talk about:</b> Startup ideas
+
+
+### Happy coding!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
