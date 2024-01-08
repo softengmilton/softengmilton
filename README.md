@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Milton Dey Mishu</h1>
-<h3 align="center">Ki jani bhai</h3>
+<h3 align="left">Software Engineer | Full Stack Web Developer | Laravel | React-js</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevmilton&label=Profile%20views&color=0e75b6&style=flat" alt="webdevmilton" /> </p>
