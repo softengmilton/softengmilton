@@ -33,8 +33,6 @@ Actively working with:
 - 💬 <b>Let's talk about:</b> Startup ideas
 ```
 
-### Happy coding!
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@milton14383181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@milton14383181" height="30" width="40" /></a>
