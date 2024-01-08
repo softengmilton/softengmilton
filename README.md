@@ -32,7 +32,7 @@ Actively working with:
 - 🤔 <b>Exploring:</b> Startup Ideas, Serverless, Functional Programming
 - ⚗️ <b>Experimenting on:</b> Ai
 - 💬 <b>Let's talk about:</b> Startup ideas
-
+```
 
 ### Happy coding!
 
