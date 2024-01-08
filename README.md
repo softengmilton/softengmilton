@@ -9,7 +9,7 @@
 
 ### Tech Stacks I've worked with
 
-_I'm working **full-stack**, but heavily focused on **FrontEnd** & **dAPPs**_
+_I'm working **full-stack**, but heavily focused on **Backend**_
 
 ```yaml
 Actively working with:
