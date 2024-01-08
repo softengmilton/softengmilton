@@ -41,10 +41,3 @@ Actively working with:
 <a href="https://linkedin.com/in/milton dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milton dey" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/KgR8J9kK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/KgR8J9kK" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdevmilton&show_icons=true&locale=en&layout=compact" alt="webdevmilton" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevmilton&show_icons=true&locale=en" alt="webdevmilton" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevmilton&" alt="webdevmilton" /></p>
