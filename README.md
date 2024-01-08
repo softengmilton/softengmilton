@@ -13,7 +13,7 @@ _I'm working **full-stack**, but heavily focused on **Backend**_
 ```yaml
 Actively working with:
   Languages:
-  - Laravel
+  - Php,Javascript
   Frontend:
   - React, Next,Framer-Motion
   Styling/Component-library:
