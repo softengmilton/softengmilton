@@ -1,6 +1,7 @@
 
 <h1 align="left">Hi 👋, I'm Milton Dey Mishu</h1>
 <h2 align="left">Software Engineer | Full Stack Web Developer | Laravel | React-js</h2>
+<h3>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -29,6 +30,7 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Zorin](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+</h3>
 
 <p align="left"> <a href="https://twitter.com/@milton14383181" target="blank"><img src="https://img.shields.io/twitter/follow/@milton14383181?logo=twitter&style=for-the-badge" alt="@milton14383181" /></a> </p>
 
