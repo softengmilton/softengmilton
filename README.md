@@ -40,14 +40,6 @@ Actively working with:
   CI/CD:
   - GitHub-Actions, CircleCI
 
-### Things you might wanna know
-
-- 🔭 <b>Working with:</b> Mentioned above **↑**
-- 🌱 <b>Getting better at:</b> Mentoring + Leading a team, Being a Product/Feature owner
-- 🤔 <b>Exploring:</b> Startup Ideas, Serverless, Functional Programming
-- ⚗️ <b>Experimenting on:</b> Ai
-- 💬 <b>Let's talk about:</b> Startup ideas
-```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
