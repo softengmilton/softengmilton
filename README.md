@@ -39,6 +39,7 @@ Actively working with:
   - laravel
   CI/CD:
   - GitHub-Actions, CircleCI
+```
 
 
 <h3 align="left">Connect with me:</h3>
