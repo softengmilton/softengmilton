@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi 👋, I'm Mishu</h1>
+<h1 align="left">Hi👋</h1>
 <h2 align="left">Software Engineer</h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
