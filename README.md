@@ -24,10 +24,10 @@ _I'm working **full-stack**, but heavily focused on **Backend**_
 ```yaml
 {
     language: ['PHP', 'JavaScript (es6)'],
-    'frameworks/Libraries/CMS': ['Laravel', 'WordPress', 'Vue.js', 'jQuery'],
-    database: ['MySQL', 'MariaDB', ],
+    frameworks/Libraries/CMS': ['Laravel', 'WordPress', 'Vue.js', 'jQuery'],
+    database: ['MySQL', 'MariaDB'],
     familiar: {
-        tools : ['Git', 'trello', ],
+        tools : ['Git', 'trello'],
         methodology : ['Agile'],
         others : ['OOP']
     }
