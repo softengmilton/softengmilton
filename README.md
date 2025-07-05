@@ -26,7 +26,7 @@ _I'm working **full-stack**, but heavily focused on **Backend**_
 ```yaml
 {
     language: ['PHP', 'JavaScript (es6)'],
-    frameworks/Libraries/CMS': ['Laravel', 'WordPress', 'Vue.js', 'jQuery'],
+    frameworks/Libraries/CMS': ['Laravel', 'WordPress', 'Vue.js','React.js', 'jQuery'],
     database: ['MySQL', 'MariaDB'],
     familiar: {
         tools : ['Git', 'trello'],
