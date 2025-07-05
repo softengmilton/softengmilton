@@ -15,7 +15,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-<p align="left"> <a href="https://twitter.com/@milton14383181" target="blank"><img src="https://img.shields.io/twitter/follow/@milton14383181?logo=twitter&style=for-the-badge" alt="@milton14383181" /></a> </p>
 
 ### Tech Stacks I've worked with
 
