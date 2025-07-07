@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi👋</h1>
-<h2 align="left">Software Engineer</h2>
+<!-- <h2 align="left">Software Engineer</h2> -->
 <p>Passionate about crafting robust full-stack solutions with PHP and Laravel, I love working closely with startup founders to bring their ideas to life. I design my own software architecture, build scalable backends, and constantly explore better ways to solve real-world problems with code. Currently diving deeper into system security and infrastructure hardening — preparing for a future where secure software isn't optional, it's essential. This space is where I share my thoughts, projects, and the occasional poem or design experiment.</p>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
